@@ -46,4 +46,40 @@ section{
 }
 .dream-area{
     background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.style{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+    background-color: cornsilk;
+    
+}
+.size{
+    font-size: xx-large;
+    color: black;
+
+}
+.Experences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#full-stack{
+    border-left:7px solid blue;
+    border-image: linear-gradient (180deg,blue,cyan);
+    border-image-slice: 1;
+
+}
+#graduate{
+    border-left:7px solid blue;
+    border-image: linear-gradient (180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#bgw{
+    background-color: white;
+}
+footer p{
+    text-align:center;
 }
