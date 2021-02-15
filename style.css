@@ -44,3 +44,6 @@ section{
     border-radius: 7px;
     font-weight: 700;
 }
+.dream-area{
+    background-image: url(images/dream-bg.png);
+}
